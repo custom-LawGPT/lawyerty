@@ -52,18 +52,18 @@ OC={아이디} 부분의 아이디는 사이트에 로그인했을 때 사용했
 http://www.law.go.kr/DRF/lawService.do?OC={아이디}&target=prec
 
 # 판례 일련번호가 112233인 판례 HTML 조회
-http://www.law.go.kr/DRF/lawService.do?OC=test&target=prec&ID=112233&type=HTML
+http://www.law.go.kr/DRF/lawService.do?OC={아이디}&target=prec&ID=112233&type=HTML
 ```
 첨부한 파이썬 코드를 참고하면, 판례 본문 데이터를 다운받을 수 있을 것이다.  
 아래는 데이터 구성 내용이다.  
 ```
 data
-├── 판례(.txt파일)                   
-│   ├── 참조조문
-|   ├── 참조판례
-│   ├── 판결요지
-│   ├── 판례내용        
-│   └── 판시사항
+├── 판례                  
+│   ├── 참조조문(.txt파일) 
+|   ├── 참조판례(.txt파일) 
+│   ├── 판결요지(.txt파일) 
+│   ├── 판례내용(.txt파일)       
+│   └── 판시사항(.txt파일) 
 ```
 각 폴더별로 텍스트 파일 양이 많기 때문에 하나로 통합시킨다.  
 ```
