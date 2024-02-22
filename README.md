@@ -112,7 +112,13 @@ merge_text_files(folder_path, output_file)
 3. 프론트/백엔드 작업을 거친 후 배포
 
 <br/><br/>
+## Preview(for App)
+![lawyerty1](https://github.com/custom-LawGPT/lawyerty/assets/150711075/c949fb53-100f-41d6-947a-e68e7ba36481)
+![lawyerty2](https://github.com/custom-LawGPT/lawyerty/assets/150711075/8190775c-257f-4f93-b606-be6171483e19)
+![lawyerty3](https://github.com/custom-LawGPT/lawyerty/assets/150711075/fb05629a-efcc-48ee-bda2-1a1bba69984f)
+![lawyerty4](https://github.com/custom-LawGPT/lawyerty/assets/150711075/9acb7234-5d45-453b-83f3-f719795d671a)
 
+<br/><br/>
 ## 참고 자료
 [국가법령정보 공동활용](https://open.law.go.kr/LSO/main.do)  
 [국가법령정보 API 사용법](https://flyingsquirrel.tistory.com/33)  
