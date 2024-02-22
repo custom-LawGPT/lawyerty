@@ -1,4 +1,4 @@
-# 법률, 판례 정보를 가진 대화형 AI, Lawyerty
+# 법률 자문 AI 서비스, Lawyerty
 
 **사용한 생성형 AI** : gpt-3.5-turbo  
 **사용한 언어** : Python  
