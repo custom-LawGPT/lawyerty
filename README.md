@@ -106,6 +106,12 @@ merge_text_files(folder_path, output_file)
 
 
 <br/><br/>
+## Future Work
+1. 학습 자동화 알고리즘 구현 및 약 8만 개의 판례 데이터셋과 법률 용어 데이터셋 학습
+2. 기술검증 후 자체적인 데이터베이스 구축
+3. 프론트/백엔드 작업을 거친 후 배포
+
+<br/><br/>
 
 ## 참고 자료
 [국가법령정보 공동활용](https://open.law.go.kr/LSO/main.do)  
